@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamratP98
+- 👋 Hi, I’m Samrat Paul
 - 👀 I’m interested in ... Data Visualization
 - 🌱 I’m currently learning ... Data Analysis
 - 📫 How to reach me ... https://www.linkedin.com/in/samrat-paul-775552170/
